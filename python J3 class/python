@@ -1,0 +1,5 @@
+print("welcome to texas international academy profile building sessions")
+a=10
+b=20
+result=a+b
+print("adiition of a,b is", result)
